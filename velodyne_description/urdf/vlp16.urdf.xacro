@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<robot name="velodyne_vlp16" xmlns:xacro="http://ros.org/wiki/xacro">
+
+  <link name="velodyne">
+    <visual>
+      <geometry>
+         <cylinder radius="0.05165" length="0.0717"/>
+      </geometry>
+      <material name="gray">
+        <color rgba="0.5 0.5 0.5 1.0"/>
+      </material>
+    </visual>
+  </link>
+</robot>
