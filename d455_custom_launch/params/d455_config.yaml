@@ -1,0 +1,14 @@
+/**:
+  ros__parameters:
+    enable_sync: true
+    enable_rgbd: true
+    enable_gyro: false
+    enable_accel: false
+    enable_infra1: false
+    enable_infra2: false
+    pointcloud.enable: true
+    align_depth.enable: true
+    spatial_filter.enable: true
+    temporal_filter.enable: true
+
+    # --- 컬러 카메라 노출 관련 수정 ---#

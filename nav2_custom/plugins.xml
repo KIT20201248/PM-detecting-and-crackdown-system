@@ -1,0 +1,9 @@
+<library path="sidewalk_layer">
+  <class name="nav2_custom::SidewalkLayer"
+         type="nav2_custom::SidewalkLayer"
+         base_class_type="nav2_costmap_2d::Layer">
+    <description>
+      Sidewalk custom layer
+    </description>
+  </class>
+</library>
